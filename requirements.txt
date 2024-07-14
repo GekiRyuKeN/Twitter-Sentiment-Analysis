@@ -4,4 +4,4 @@ matplotlib
 wordcloud
 plotly
 gdown
-pickle
+
