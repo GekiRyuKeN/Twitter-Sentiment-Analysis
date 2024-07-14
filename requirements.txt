@@ -4,3 +4,4 @@ matplotlib
 wordcloud
 plotly
 gdown
+sklearn
